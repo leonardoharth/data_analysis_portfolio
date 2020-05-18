@@ -23,8 +23,3 @@ This is a Midterm for the Introduction to Web Mapping class. I am testing some f
 [CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Midterm/ "Seattle Energy Benchmark")
 
 ---
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
