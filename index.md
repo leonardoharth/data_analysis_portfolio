@@ -10,9 +10,9 @@ This is my term project for the course “Introduction to Web Mapping” (CPLN 6
 
 <img src="images/Volcano_xp_thumb.JPG?raw=true"/>
 
-[CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Javascript_Final/ "Volcano Explorer")
+- [CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Javascript_Final/ "Volcano Explorer")
 
-[CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Harth_Leo_Javascript_Final/ "Volcano Explorer Repo")
+- [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Harth_Leo_Javascript_Final/ "Volcano Explorer Repo")
 
 ---
 
@@ -22,8 +22,8 @@ This is a Midterm for the Introduction to Web Mapping class. I am testing some f
 
 <img src="images/seattle.JPG?raw=true"/>
 
-[CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Midterm/ "Seattle Energy Benchmark")
+- [CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Midterm/ "Seattle Energy Benchmark")
 
-[CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Harth_Leo_Midterm "Seattle Energy Benchmark Repo")
+- [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Harth_Leo_Midterm "Seattle Energy Benchmark Repo")
 
 ---
