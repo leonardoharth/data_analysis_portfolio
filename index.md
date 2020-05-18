@@ -5,7 +5,7 @@
 ### Javascript Web Apps
 
 [Volcano Explorer](https://leonardoharth.github.io/Harth_Leo_Javascript_Final/ "Volcano Explorer")
-<img src="images/Volcano_xp_thumb.jpg?raw=true"/>
+<img src="images/Volcano_xp_thumb.JPG?raw=true"/>
 
 ---
 [Building Energy Benchmark in Seattle](/pdf/sample_presentation.pdf)
