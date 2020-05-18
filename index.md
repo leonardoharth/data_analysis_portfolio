@@ -32,7 +32,7 @@ This is a Midterm for the Introduction to Web Mapping class. I am testing some f
 
 ### Train Platform Optimization Platty++
 
-This is a smart city project done for the [Sensing the City](http://www.sensingthecity.com/ ""Sensing) course at the University of Pennsylvania. I worked with [Neil Narayan](https://www.linkedin.com/in/neil-reid-narayan/ "Neil") and [Chin Yee Lee](https://www.linkedin.com/in/chin-yee-lee-65383a165/ "Chin") to create a prototype for a smart boarding system for SEPTA using sensors.
+This is a smart city project done for the [Sensing the City](http://www.sensingthecity.com/ "Sensing") course at the University of Pennsylvania. I worked with [Neil Narayan](https://www.linkedin.com/in/neil-reid-narayan/ "Neil") and [Chin Yee Lee](https://www.linkedin.com/in/chin-yee-lee-65383a165/ "Chin") to create a prototype for a smart boarding system for SEPTA using sensors.
 
 <img src="images/platty.png?raw=true"/>
 
