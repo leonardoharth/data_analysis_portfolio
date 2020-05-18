@@ -13,8 +13,14 @@ This is my term project for the course “Introduction to Web Mapping” (CPLN 6
 [CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Javascript_Final/ "Volcano Explorer")
 
 ---
-[Building Energy Benchmark in Seattle](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Seattle Buildings Energy Benchmark Slideshow
+
+This is a Midterm for the Introduction to Web Mapping class. I am testing some filtering and style, using the Seattle 2018 Building Energy Benchmarking.
+
+<img src="images/Seattle.JPG?raw=true"/>
+
+[CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Midterm/ "Seattle Energy Benchmark")
 
 ---
 
