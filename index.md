@@ -2,7 +2,7 @@
 
 ---
 
-## Javascript Web Apps
+## Web Apps using Javascript, HTML, and CSS
 
 ### Volcano Explorer
 
@@ -16,18 +16,6 @@ This is my term project for the course “Introduction to Web Mapping” (CPLN 6
 
 ---
 
-## Data Analysis in ArcGIS
-
-### ArcPy Lightplanner
-
-This is a customized ArcGIS Toolbox that I creating using my experience as a lighting planner. The idea is to streamline a process of feasibility assessment for a LED upgrade plan.
-
-<img src="images/arcpy_light.png?raw=true"/>
-
-- [CLICK HERE TO VIEW THE PROJECT'S REPORT AND CODE](https://issuu.com/leonardoharth2018/docs/harth_leonardo_finalproject "ArcPy Light")
-
----
-
 ### Seattle Buildings Energy Benchmark Slideshow
 
 This is a Midterm for the Introduction to Web Mapping class. I am testing some filtering and style, using the Seattle 2018 Building Energy Benchmarking.
@@ -37,6 +25,18 @@ This is a Midterm for the Introduction to Web Mapping class. I am testing some f
 - [CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Midterm/ "Seattle Energy Benchmark")
 
 - [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Harth_Leo_Midterm "Seattle Energy Benchmark Repo")
+
+---
+
+## Data Analysis in ArcGIS
+
+### ArcPy Lightplanner
+
+This is a customized ArcGIS Toolbox that I creating using my experience as a lighting planner. The idea is to streamline a process of feasibility assessment for a LED upgrade plan.
+
+<img src="images/arcpy_light.png?raw=true"/>
+
+- [CLICK HERE TO VIEW THE PROJECT'S REPORT AND CODE](https://issuu.com/leonardoharth2018/docs/harth_leonardo_finalproject "ArcPy Light")
 
 ---
 
