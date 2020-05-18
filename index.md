@@ -2,17 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Javascript Web Apps
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Volcano Explorer](https://leonardoharth.github.io/Harth_Leo_Javascript_Final/ "Volcano Explorer")
+<img src="images/Volcano_xp_thumb.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Building Energy Benchmark in Seattle](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
