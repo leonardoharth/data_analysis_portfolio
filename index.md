@@ -18,7 +18,7 @@ This is my term project for the course “Introduction to Web Mapping” (CPLN 6
 
 This is a Midterm for the Introduction to Web Mapping class. I am testing some filtering and style, using the Seattle 2018 Building Energy Benchmarking.
 
-<img src="images/Seattle.JPG?raw=true"/>
+<img src="images/seattle.JPG?raw=true"/>
 
 [CLICK HERE TO LAUNCH THE APP](https://leonardoharth.github.io/Harth_Leo_Midterm/ "Seattle Energy Benchmark")
 
