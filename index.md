@@ -8,7 +8,7 @@
 
 <img src="images/water_stress.JPG?raw=true"/>
 
-This project was done with [John Michael Laselle](https://www.linkedin.com/in/johnmichaellasalle/ "John Michael") for the [Geospatial Data Analysis in Python](https://github.com/MUSA-620-fall-2019 "MUSA 620") course at the University of Pennsylvania. We combined [Aqueduct Global Maps 3.0 Data](https://www.wri.org/resources/data-sets/aqueduct-global-maps-30-data "Aqueduct Maps") with child mortality rates, nightime light emissions, and population density data to create a cluster analysis of water stress arround the world.
+This project was done with [John Michael Lasalle](https://www.linkedin.com/in/johnmichaellasalle/ "John Michael") for the [Geospatial Data Analysis in Python](https://github.com/MUSA-620-fall-2019 "MUSA 620") course at the University of Pennsylvania. We combined [Aqueduct Global Maps 3.0 Data](https://www.wri.org/resources/data-sets/aqueduct-global-maps-30-data "Aqueduct Maps") with child mortality rates, nightime light emissions, and population density data to create a cluster analysis of water stress arround the world.
 
 - [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/water-risk-classification "Water stress")
 
