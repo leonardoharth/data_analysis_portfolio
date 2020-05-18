@@ -27,3 +27,15 @@ This is a Midterm for the Introduction to Web Mapping class. I am testing some f
 - [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Harth_Leo_Midterm "Seattle Energy Benchmark Repo")
 
 ---
+
+## Other
+
+### Train Platform Optimization Platty++
+
+This is my term project for the course “Introduction to Web Mapping” (CPLN 692) at the University of Pennsylvania. I used data from the National Museum of Natural History to create a web application to visualize the Museum’s volcanoes catalog.
+
+<img src="images/platty.png?raw=true"/>
+
+- [CLICK HERE TO VISIT THE PROJECT'S WEBPAGE](http://www.sensingthecity.com/train-platform-optimization-platy/ "Platty++")
+
+---
