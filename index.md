@@ -20,9 +20,21 @@ This is part of my work as a research fellow at the Wharton Social Impact Initia
 
 This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") for the Land Use and Environmental Modeling course at the University of Pennsylvania. We used data from the 2013 Alberta's Flood to build a logistic model to predict the likelihood of Flood, using fishnet cells as an unit of analysis.
 
-- [CLICK HERE TO SEE PROJECT'S REPORT](https://issuu.com/leonardoharth2018/docs/midterm_report "Flood modeling report")
+- [CLICK HERE TO SEE THE PROJECT'S REPORT](https://issuu.com/leonardoharth2018/docs/midterm_report "Flood modeling report")
 
 - [CLICK HERE TO SEE A VIDEO PRESENTATION OF THE PROJECT](https://www.youtube.com/watch?v=VX-656yVWb8 "Flood modeling video")
+
+---
+
+### Seattle's Aging and Disability Service Modeling
+
+<img src="images/flood_calgary.png?raw=true"/>
+
+In this project, [Jane Christen](https://www.linkedin.com/in/jane-christen-b62a5653/ "Jane") and I modeled the demand for different services offered by the Seattle's Aging and Disability Service. We built a set of four logistic regressions to understand the likelihhod of elder citizens needing services is the future based on demographics and survey information from previous service users.
+
+- [CLICK HERE TO SEE THE PROJECT'S SUMMARY PRESENTATION](/pdf/PBN_presentation.pdf)
+
+- [CLICK HERE TO SEE THE PROJECT'S REPORT](/pdf/PBN_report.pdf)
 
 ---
 
