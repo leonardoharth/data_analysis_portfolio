@@ -6,11 +6,11 @@
 
 ### Flood Risk Modeling in Calgary, Alberta
 
-<img src="images/water_stress.JPG?raw=true"/>
+<img src="images/flood_calgary.png?raw=true"/>
 
-This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") for the Land Use and Environmental Modeling course at the University of Pennsylvania. We used 
+This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") for the Land Use and Environmental Modeling course at the University of Pennsylvania. We used data from the 2013 Alberta's Flood to build a logistic model to predict the likelihood of Flood, using fishnet cells as an unit of analysis.
 
-- [CLICK HERE TO SEE PROJECT'S REPORT](https://github.com/leonardoharth/water-risk-classification "Water stress")
+- [CLICK HERE TO SEE PROJECT'S REPORT](https://issuu.com/leonardoharth2018/docs/midterm_report "Flood modeling report")
 - [CLICK HERE TO SEE A VIDEO PRESENTATION OF THE PROJECT](https://www.youtube.com/watch?v=VX-656yVWb8 "Flood modeling video")
 
 ---
