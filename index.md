@@ -8,7 +8,7 @@
 
 <img src="images/wise.jpg?raw=true"/>
 
-This is part of my work as a research fellow at the Wharton Social Impact Initiative - [WSII](https://socialimpact.wharton.upenn.edu/ "WSII"). I have conducted research in Urban Analytics for [Dr. Shane Jensen](https://statistics.wharton.upenn.edu/profile/stjensen/ "Shane"), investigating the spatial correlation of schools and crime incidence in Philadelphia. Crime and environmental variables were agregated at the Census Block level. This research involved running a set of 32 linear regressions combining different school levels, crime types, and time periods. A propensity score matching analysis was conducted on the same variable groups.
+This is part of my work as a research fellow at the Wharton Social Impact Initiative - [WSII](https://socialimpact.wharton.upenn.edu/ "WSII"). I was part of the Urban Analytics team led by [Dr. Shane Jensen](https://statistics.wharton.upenn.edu/profile/stjensen/ "Shane"), investigating the spatial correlation of schools and crime incidence in Philadelphia. I aggregated all crime, demographic, and environmental variables at the Census Block level. This research involved running a set of 32 linear regressions that combined different school levels, crime types, and time frames. I conducted a propensity score matching analysis to reiterate the results.
 
 - [CLICK HERE TO SEE A SAMPLE OF THE RESEARCH'S DATA VISUALIZATION](/pdf/dataaviz_wise.pdf)
 
@@ -18,7 +18,7 @@ This is part of my work as a research fellow at the Wharton Social Impact Initia
 
 <img src="images/flood_calgary.png?raw=true"/>
 
-This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") for the Land Use and Environmental Modeling course at the University of Pennsylvania. We used data from the 2013 Alberta's Flood to build a logistic model to predict the likelihood of Flood, using fishnet cells as an unit of analysis.
+This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") for the Land Use and Environmental Modeling course at the University of Pennsylvania. We used data from the 2013 Alberta's Flood to build a logistic model to predict the likelihood of flood for each fishnet cell in Calgary.
 
 - [CLICK HERE TO SEE THE PROJECT'S REPORT](https://issuu.com/leonardoharth2018/docs/midterm_report "Flood modeling report")
 
@@ -30,7 +30,7 @@ This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") f
 
 <img src="images/pbn.jpg?raw=true"/>
 
-In this project, [Jane Christen](https://www.linkedin.com/in/jane-christen-b62a5653/ "Jane") and I modeled the demand for different services offered by the Seattle's Aging and Disability Service. We built a set of four logistic regressions to understand the likelihhod of elder citizens needing services is the future based on demographics and survey information from previous service users.
+In this project, [Jane Christen](https://www.linkedin.com/in/jane-christen-b62a5653/ "Jane") and I modeled the demand for different services offered by Seattle's Aging and Disability Service. We built a set of four logistic regressions to understand the likelihood of elder citizens needing services in the future based on demographics and survey information from previous service users.
 
 - [CLICK HERE TO SEE THE PROJECT'S SUMMARY PRESENTATION](/pdf/PBN_presentation.pdf)
 
@@ -54,7 +54,7 @@ This project was done with [John Michael Lasalle](https://www.linkedin.com/in/jo
 
 <img src="images/seattle_dv.png?raw=true"/>
 
-This project is an assignment for the [Geospatial Data Analysis in Python](https://github.com/MUSA-620-fall-2019 "MUSA 620") course at the University of Pennsylvania. I was interested in exploring different Data Vizualization libraries for Python, such as Seaborn, Altair, and Matplotlib.
+This project is an assignment for the [Geospatial Data Analysis in Python](https://github.com/MUSA-620-fall-2019 "MUSA 620") course at the University of Pennsylvania. I was interested in exploring different Data Visualization libraries for Python, such as Seaborn, Altair, and Matplotlib.
 
 - [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Data-exploration-Python-Seattle "Seattle Dataviz")
 
@@ -64,7 +64,7 @@ This project is an assignment for the [Geospatial Data Analysis in Python](https
 
 ### Volcano Explorer
 
-This is my term project for the course “Introduction to Web Mapping” (CPLN 692) at the University of Pennsylvania. I used data from the National Museum of Natural History to create a web application to visualize the Museum’s volcanoes catalog.
+This is my term project for the course [Introduction to Web Mapping](https://github.com/MUSA611-CPLN692-spring2020/ "CPLN 692") at the University of Pennsylvania. I used data from the National Museum of Natural History to create a web application to visualize the Museum’s volcanoes catalog.
 
 <img src="images/Volcano_xp_thumb.JPG?raw=true"/>
 
@@ -76,7 +76,7 @@ This is my term project for the course “Introduction to Web Mapping” (CPLN 6
 
 ### Seattle Buildings Energy Benchmark Slideshow
 
-This is a Midterm for the Introduction to Web Mapping class. I am testing some filtering and style, using the Seattle 2018 Building Energy Benchmarking.
+This is a Midterm for the course [Introduction to Web Mapping](https://github.com/MUSA611-CPLN692-spring2020/ "CPLN 692") at the University of Pennsylvania. I tested some filtering and styling options, using the Seattle 2018 Building Energy Benchmarking dataset.
 
 <img src="images/seattle.JPG?raw=true"/>
 
