@@ -28,6 +28,16 @@ This project was done with [John Michael Lasalle](https://www.linkedin.com/in/jo
 
 ---
 
+### Seattle Buildings Energy Benchmarking Data Visualization
+
+<img src="images/seattle_dv.png?raw=true"/>
+
+This project is an assignment for the [Geospatial Data Analysis in Python](https://github.com/MUSA-620-fall-2019 "MUSA 620") course at the University of Pennsylvania. I was interested in exploring different Data Vizualization libraries for Python, such as Seaborn, Altair, and Matplotlib.
+
+- [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/Data-exploration-Python-Seattle "Seattle Dataviz")
+
+---
+
 ## Web Apps using Javascript, HTML, and CSS
 
 ### Volcano Explorer
@@ -66,7 +76,7 @@ This is a customized ArcGIS Toolbox that I creating using my experience as a lig
 
 ---
 
-## Other
+## Arduino Coding
 
 ### Train Platform Optimization Platty++
 
