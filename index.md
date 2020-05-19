@@ -4,6 +4,16 @@
 
 ## Data Analysis using R
 
+### Crime incidence near schools in Philadelphia research
+
+<img src="images/wise.jpg?raw=true"/>
+
+This is part of my work as a research fellow at the Wharton Social Impact Initiative - [WSII](https://socialimpact.wharton.upenn.edu/ "WSII). I have conducted research in Urban Analytics for [Dr. Shane Jensen](https://statistics.wharton.upenn.edu/profile/stjensen/ "Shane"), investigating the spatial correlation of schools and crime incidence in Philadelphia. This research involved running a set of 32 linear regressions combining different school levels, crime types, and time periods. A propensity score matching analysis was conducted on the same variable groups.
+
+- [CLICK HERE TO SEE A SAMPLE OF THE RESEARCH'S DATA VISUALIZATION]((/images/dataaviz_wise.pdf))
+
+---
+
 ### Flood Risk Modeling in Calgary, Alberta
 
 <img src="images/flood_calgary.png?raw=true"/>
