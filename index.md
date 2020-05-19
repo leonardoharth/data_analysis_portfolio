@@ -28,7 +28,7 @@ This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") f
 
 ### Seattle's Aging and Disability Service Modeling
 
-<img src="images/flood_calgary.png?raw=true"/>
+<img src="images/pbn.jpg?raw=true"/>
 
 In this project, [Jane Christen](https://www.linkedin.com/in/jane-christen-b62a5653/ "Jane") and I modeled the demand for different services offered by the Seattle's Aging and Disability Service. We built a set of four logistic regressions to understand the likelihhod of elder citizens needing services is the future based on demographics and survey information from previous service users.
 
