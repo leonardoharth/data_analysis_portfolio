@@ -2,6 +2,19 @@
 
 ---
 
+## Data Analysis using R
+
+### Flood Risk Modeling in Calgary, Alberta
+
+<img src="images/water_stress.JPG?raw=true"/>
+
+This project was done with [Eugene Chong](https://e-chong.github.io/ "Eugene") for the Land Use and Environmental Modeling course at the University of Pennsylvania. We used 
+
+- [CLICK HERE TO SEE PROJECT'S REPORT](https://github.com/leonardoharth/water-risk-classification "Water stress")
+- [CLICK HERE TO SEE A VIDEO PRESENTATION OF THE PROJECT](https://www.youtube.com/watch?v=VX-656yVWb8 "Flood modeling video")
+
+---
+
 ## Data Analysis using Python
 
 ### Water Risk Classification
@@ -11,6 +24,8 @@
 This project was done with [John Michael Lasalle](https://www.linkedin.com/in/johnmichaellasalle/ "John Michael") for the [Geospatial Data Analysis in Python](https://github.com/MUSA-620-fall-2019 "MUSA 620") course at the University of Pennsylvania. We combined [Aqueduct Global Maps 3.0 Data](https://www.wri.org/resources/data-sets/aqueduct-global-maps-30-data "Aqueduct Maps") with child mortality rates, nightime light emissions, and population density data to create a cluster analysis of water stress arround the world.
 
 - [CLICK HERE TO GO TO THE PROJECT'S REPOSITORY](https://github.com/leonardoharth/water-risk-classification "Water stress")
+
+---
 
 ## Web Apps using Javascript, HTML, and CSS
 
