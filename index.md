@@ -11,6 +11,7 @@
 This is part of my work as a research fellow at the Wharton Social Impact Initiative - [WSII](https://socialimpact.wharton.upenn.edu/ "WSII"). I was part of the Urban Analytics team led by [Dr. Shane Jensen](https://statistics.wharton.upenn.edu/profile/stjensen/ "Shane"), investigating the spatial correlation of schools and crime incidence in Philadelphia. I aggregated all crime, demographic, and environmental variables at the Census Block level. This research involved running a set of 32 linear regressions that combined different school levels, crime types, and time frames. I conducted a propensity score matching analysis to reiterate the results.
 
 - [CLICK HERE TO SEE A SAMPLE OF THE RESEARCH'S DATA VISUALIZATION](/pdf/dataaviz_wise.pdf)
+- [CLICK HERE TO SEE THE FULL REPORT](https://issuu.com/leonardoharth2018/docs/harth_leonardo_wise_report_rev01 "WISE REPORT")
 
 ---
 
