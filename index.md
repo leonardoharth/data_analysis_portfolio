@@ -114,6 +114,6 @@ This is a smart city project done for the [Sensing the City](http://www.sensingt
 
 ## Please take a look at my planning and design work as well
 
-I have a vast experience in lighting planning and design. [Click here](https://leonardoharth.wordpress.com/portfolio/ "Planning portfolio" to learn more about my planning and design projects.
+I have a vast experience in lighting planning and design. [Click here](https://leonardoharth.wordpress.com/portfolio/ "Planning portfolio") to learn more about my planning and design projects.
 
 <img src="images/design_portfolio.png?raw=true"/>
